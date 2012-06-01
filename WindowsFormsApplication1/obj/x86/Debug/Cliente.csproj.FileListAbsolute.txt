@@ -7,5 +7,3 @@
 \\psf\Home\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
 \\psf\Home\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Cliente.exe
 \\psf\Home\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Cliente.pdb
-C:\Cliente\WindowsFormsApplication1\obj\x86\Debug\Cliente.exe
-C:\Cliente\WindowsFormsApplication1\obj\x86\Debug\Cliente.pdb

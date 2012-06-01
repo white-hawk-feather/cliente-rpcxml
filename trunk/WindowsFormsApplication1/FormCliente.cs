@@ -17,50 +17,40 @@ namespace WindowsFormsApplication1
         private Thread oThread;
         public FormCliente()
         {
-  
-        
             InitializeComponent();
-        
         }
-
+        //-------------------------------------------------------------
         private void btn_PublicarLance_Click(object sender, EventArgs e)
         {
-        
-            Console.WriteLine("Thread Inicializando");
-            
             //Nome Cliente
             String nomeCliente = edt_Nome.Text;
             //Valor do lance
             String valorLance = edt_Valor.Text;
             //ID produto
             String idProduto = edt_ID.Text;
-            edt_LeiloesAbertos.AppendText(idProduto + " " + nomeCliente + " " + valorLance + "\n");
-            edt_LeiloesAbertos.AppendText("Thread Inicializando\n");
-
-            threadLeilao objCliente = new threadLeilao(edt_LeiloesAbertos);
-            oThread = new Thread(new ThreadStart(objCliente.Inicializa));
-            // Start the thread
-            //oThread.IsBackground = true;
-            oThread.Start();
-         
-            // Put the Main thread to sleep for 1 millisecond to allow oThread
-            // to do some work:
-            //Thread.Sleep(1);
-
-         
-
-            // Wait until oThread finishes. Join also has overloads
-            // that take a millisecond interval or a TimeSpan object.
-            //oThread.Join();
-
+            //(idProduto + " " + nomeCliente + " " + valorLance + "\n");
+            //Enviar lance ao leiloeiro
         }
-
+        //-------------------------------------------------------------
         private void btnOFF_Click(object sender, EventArgs e)
         {
             // Request that oThread be stopped
             oThread.Abort();
+            btn_PublicarLance.Enabled = false;
         }
-       
-
+        //-------------------------------------------------------------
+        private void btnConectar_Click(object sender, EventArgs e)
+        {
+            threadLeilao objCliente = new threadLeilao(edt_LeiloesAbertos);
+            oThread = new Thread(new ThreadStart(objCliente.Inicializa));
+            oThread.Start();
+            btn_PublicarLance.Enabled = true;
+        }
+        //-------------------------------------------------------------
+        private void FormCliente_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            oThread.Abort();
+        }
+        //-------------------------------------------------------------
     }
 }

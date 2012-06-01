@@ -7,3 +7,5 @@
 \\psf\Home\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
 \\psf\Home\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Cliente.exe
 \\psf\Home\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Cliente.pdb
+C:\cliente-rpcxml\WindowsFormsApplication1\obj\x86\Debug\Cliente.exe
+C:\cliente-rpcxml\WindowsFormsApplication1\obj\x86\Debug\Cliente.pdb

@@ -1,0 +1,25 @@
+C:\Documents and Settings\g0024485\My Documents\SharpDevelop Projects\XMLRPC\bin\CookComputing.XmlRpcV2.dll
+C:\Documents and Settings\g0024485\My Documents\SharpDevelop Projects\XMLRPC\bin\CookComputing.XmlRpcV2.pdb
+C:\Documents and Settings\g0024485\My Documents\SharpDevelop Projects\XMLRPC\XMLRPCLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\g0024485\My Documents\SharpDevelop Projects\XMLRPC\XMLRPCLib\obj\Debug\CookComputing.XmlRpcV2.dll
+C:\Documents and Settings\g0024485\My Documents\SharpDevelop Projects\XMLRPC\XMLRPCLib\obj\Debug\CookComputing.XmlRpcV2.pdb
+C:\GVT\Devel\XMLRPC\bin\CookComputing.XmlRpcV2.dll
+C:\GVT\Devel\XMLRPC\bin\CookComputing.XmlRpcV2.pdb
+C:\GVT\Devel\XMLRPC\XMLRPCLib\obj\Debug\ResolveAssemblyReference.cache
+C:\GVT\Devel\XMLRPC\XMLRPCLib\obj\Debug\CookComputing.XmlRpcV2.dll
+C:\GVT\Devel\XMLRPC\XMLRPCLib\obj\Debug\CookComputing.XmlRpcV2.pdb
+C:\Users\g0024485\Desktop\XMLRPC\bin\CookComputing.XmlRpcV2.dll
+C:\Users\g0024485\Desktop\XMLRPC\bin\CookComputing.XmlRpcV2.pdb
+C:\Users\g0024485\Desktop\XMLRPC\XMLRPCLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\g0024485\Desktop\XMLRPC\XMLRPCLib\obj\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\g0024485\Desktop\XMLRPC\XMLRPCLib\obj\Debug\CookComputing.XmlRpcV2.pdb
+C:\XMLRPC\bin\CookComputing.XmlRpcV2.dll
+C:\XMLRPC\bin\CookComputing.XmlRpcV2.pdb
+C:\XMLRPC\XMLRPCLib\obj\Debug\ResolveAssemblyReference.cache
+C:\XMLRPC\XMLRPCLib\obj\Debug\CookComputing.XmlRpcV2.dll
+C:\XMLRPC\XMLRPCLib\obj\Debug\CookComputing.XmlRpcV2.pdb
+\\psf\Home\Desktop\XMLRPC_v1\bin\CookComputing.XmlRpcV2.dll
+\\psf\Home\Desktop\XMLRPC_v1\bin\CookComputing.XmlRpcV2.pdb
+\\psf\Home\Desktop\XMLRPC_v1\XMLRPCLib\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Desktop\XMLRPC_v1\XMLRPCLib\obj\Debug\CookComputing.XmlRpcV2.dll
+\\psf\Home\Desktop\XMLRPC_v1\XMLRPCLib\obj\Debug\CookComputing.XmlRpcV2.pdb

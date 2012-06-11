@@ -1,0 +1,14 @@
+C:\Users\g0024485\Desktop\XMLRPC\WebServiceAPI\bin\Debug\WebServiceAPI.dll
+C:\Users\g0024485\Desktop\XMLRPC\WebServiceAPI\bin\Debug\WebServiceAPI.pdb
+C:\Users\g0024485\Desktop\XMLRPC\WebServiceAPI\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\g0024485\Desktop\XMLRPC\WebServiceAPI\bin\Debug\CookComputing.XmlRpcV2.pdb
+C:\Users\g0024485\Desktop\XMLRPC\WebServiceAPI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\g0024485\Desktop\XMLRPC\WebServiceAPI\obj\x86\Debug\WebServiceAPI.dll
+C:\Users\g0024485\Desktop\XMLRPC\WebServiceAPI\obj\x86\Debug\WebServiceAPI.pdb
+C:\XMLRPC\WebServiceAPI\bin\Debug\WebServiceAPI.dll
+C:\XMLRPC\WebServiceAPI\bin\Debug\WebServiceAPI.pdb
+C:\XMLRPC\WebServiceAPI\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\XMLRPC\WebServiceAPI\bin\Debug\CookComputing.XmlRpcV2.pdb
+C:\XMLRPC\WebServiceAPI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\XMLRPC\WebServiceAPI\obj\x86\Debug\WebServiceAPI.dll
+C:\XMLRPC\WebServiceAPI\obj\x86\Debug\WebServiceAPI.pdb

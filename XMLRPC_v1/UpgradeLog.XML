@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="XMLRPC">
+</Property><Property Name="Solution File" Value="\\psf\Home\Desktop\XMLRPC_v1\XMLRPC.sln">
+</Property><Property Name="Date" Value="segunda-feira, 11 de junho de 2012">
+</Property><Property Name="Time" Value="13:47">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="XMLRPC.sln" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPC.sln">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\xmlrpclib.csproj" Description="Project file successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\xmlrpclib.csproj">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\AssemblyInfo.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\DateTime8601.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\DateTime8601.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\GuidEx.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\GuidEx.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\IHttpRequest.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\IHttpRequest.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\IHttpRequestHandler.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\IHttpRequestHandler.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\IHttpResponse.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\IHttpResponse.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\IXmlRpcProxy.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\IXmlRpcProxy.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\RequestResponseLogger.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\RequestResponseLogger.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\SystemMethodsBase.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\SystemMethodsBase.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\Tracer.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\Tracer.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\util.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\util.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcAsyncResult.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcAsyncResult.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcBeginAttribute.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcBeginAttribute.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcBoolean.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcBoolean.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcClientFormatterSink.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcClientFormatterSink.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcClientFormatterSinkProvider.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcClientFormatterSinkProvider.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcClientProtocol.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcClientProtocol.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcDateTime.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcDateTime.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcDocWriter.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcDocWriter.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcDouble.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcDouble.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcEndAttribute.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcEndAttribute.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcException.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcException.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcFaultException.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcFaultException.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcHttpRequest.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcHttpRequest.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcHttpResponse.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcHttpResponse.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcHttpServerProtocol.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcHttpServerProtocol.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcInt.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcInt.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcListenerRequest.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcListenerRequest.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcListenerResponse.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcListenerResponse.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcListenerService.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcListenerService.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcLogger.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcLogger.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcMemberAttribute.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcMemberAttribute.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcMethodAttribute.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcMethodAttribute.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcMethodInfo.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcMethodInfo.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcMissingMappingAttribute.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcMissingMappingAttribute.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcNonStandard.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcNonStandard.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcParameterAttribute.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcParameterAttribute.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcParameterInfo.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcParameterInfo.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcProxyCodeGen.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcProxyCodeGen.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcProxyGen.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcProxyGen.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcRequest.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcRequest.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcRequestEventArgs.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcRequestEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcResponse.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcResponse.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcResponseEventArgs.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcResponseEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcReturnValueAttribute.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcReturnValueAttribute.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcSerializer.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcSerializer.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcServerFormatterSink.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcServerFormatterSink.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcServerFormatterSinkProvider.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcServerFormatterSinkProvider.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcServerProtocol.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcServerProtocol.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcService.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcService.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcServiceAttribute.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcServiceAttribute.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcServiceInfo.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcServiceInfo.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcStruct.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcStruct.cs">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\XmlRpcUrlAttribute.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\XMLRPCLib\XmlRpcUrlAttribute.cs">
+</Event><Event ErrorLevel="1" Project="xmlrpclib" Source="XMLRPCLib\xmlrpclib.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\xmlrpclib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="xmlrpclib" Source="XMLRPCLib\xmlrpclib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WebServiceAPI" Source="WebServiceAPI\WebServiceAPI.csproj" Description="Project file successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\WebServiceAPI\WebServiceAPI.csproj">
+</Event><Event ErrorLevel="0" Project="WebServiceAPI" Source="WebServiceAPI\API.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\WebServiceAPI\API.cs">
+</Event><Event ErrorLevel="0" Project="WebServiceAPI" Source="WebServiceAPI\IXmlRpcProxy.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\WebServiceAPI\IXmlRpcProxy.cs">
+</Event><Event ErrorLevel="0" Project="WebServiceAPI" Source="WebServiceAPI\Properties\AssemblyInfo.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\WebServiceAPI\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WebServiceAPI" Source="WebServiceAPI\Structs.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\WebServiceAPI\Structs.cs">
+</Event><Event ErrorLevel="0" Project="WebServiceAPI" Source="WebServiceAPI\WebServiceAPI.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WebServiceAPI" Source="WebServiceAPI\WebServiceAPI.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Test" Source="Test\Test.csproj" Description="Project file successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\Test\Test.csproj">
+</Event><Event ErrorLevel="0" Project="Test" Source="Test\Program.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\Test\Program.cs">
+</Event><Event ErrorLevel="0" Project="Test" Source="Test\Properties\AssemblyInfo.cs" Description="File successfully backed up as \\psf\Home\Desktop\XMLRPC_v1\Backup\Test\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Test" Source="Test\Test.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Test" Source="Test\Test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="XMLRPC.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="XMLRPC.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="xmlrpclib" Source="XMLRPCLib\xmlrpclib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="WebServiceAPI" Source="WebServiceAPI\WebServiceAPI.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Test" Source="Test\Test.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

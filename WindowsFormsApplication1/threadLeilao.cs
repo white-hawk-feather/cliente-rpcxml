@@ -6,12 +6,10 @@ using System.Threading;
 using System.Windows.Forms;
 using WindowsFormsApplication1;
 using CookComputing.XmlRpc;
-using CookComputing.XmlRpc;
 using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.IO;
 using System.Net;
-using Microsoft.Samples.XmlRpc;
 
 
 namespace Cliente

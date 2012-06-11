@@ -1,0 +1,14 @@
+C:\Documents and Settings\g0024485\My Documents\SharpDevelop Projects\XMLRPC\BarracudaAPI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\g0024485\My Documents\SharpDevelop Projects\XMLRPC\BarracudaAPI\bin\Debug\BarracudaAPI.dll
+C:\Documents and Settings\g0024485\My Documents\SharpDevelop Projects\XMLRPC\BarracudaAPI\bin\Debug\BarracudaAPI.pdb
+C:\Documents and Settings\g0024485\My Documents\SharpDevelop Projects\XMLRPC\BarracudaAPI\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Documents and Settings\g0024485\My Documents\SharpDevelop Projects\XMLRPC\BarracudaAPI\bin\Debug\CookComputing.XmlRpcV2.pdb
+C:\Documents and Settings\g0024485\My Documents\SharpDevelop Projects\XMLRPC\BarracudaAPI\obj\x86\Debug\BarracudaAPI.dll
+C:\Documents and Settings\g0024485\My Documents\SharpDevelop Projects\XMLRPC\BarracudaAPI\obj\x86\Debug\BarracudaAPI.pdb
+C:\GVT\Devel\XMLRPC\BarracudaAPI\bin\Debug\BarracudaAPI.dll
+C:\GVT\Devel\XMLRPC\BarracudaAPI\bin\Debug\BarracudaAPI.pdb
+C:\GVT\Devel\XMLRPC\BarracudaAPI\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\GVT\Devel\XMLRPC\BarracudaAPI\bin\Debug\CookComputing.XmlRpcV2.pdb
+C:\GVT\Devel\XMLRPC\BarracudaAPI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\GVT\Devel\XMLRPC\BarracudaAPI\obj\x86\Debug\BarracudaAPI.dll
+C:\GVT\Devel\XMLRPC\BarracudaAPI\obj\x86\Debug\BarracudaAPI.pdb

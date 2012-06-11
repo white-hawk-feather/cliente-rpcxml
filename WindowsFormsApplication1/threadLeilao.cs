@@ -5,6 +5,14 @@ using System.Text;
 using System.Threading;
 using System.Windows.Forms;
 using WindowsFormsApplication1;
+using CookComputing.XmlRpc;
+using CookComputing.XmlRpc;
+using System.ServiceModel;
+using System.ServiceModel.Web;
+using System.IO;
+using System.Net;
+using Microsoft.Samples.XmlRpc;
+
 
 namespace Cliente
 {
@@ -22,19 +30,27 @@ namespace Cliente
         {
              //Dados a serem recebidos:
              //código, nome, descrição, preço inicial e tempo do leilão;
-             String texto = "Código | Descrição | Preço Inicial/Atual | Tempo\n";
+            String texto = "ID Produto | Descrição|  Preço  | Tempo \n";
              AtualizaText(texto);
             //Conectar RPCxml, e verificar os lelões que existem... 
-            while (true)
-            {
-                //Teste!
-                for (int i = 0; i < 5; i++)
-                { 
-                    texto = (i*10+1) + " Mouse" + i + " "+ i+4*3 + "/" + i*20 + " " + (i*100+1) + "\n";
-                    AtualizaText(texto);
-                    Thread.Sleep(2000);
-                }
-            }
+             _LeiloesAbertos_ LeiloesAbertos = (_LeiloesAbertos_)XmlRpcProxyGen.Create(typeof(_LeiloesAbertos_));
+             while (true)
+             {
+                 texto = LeiloesAbertos.leiloesAbertos();
+
+                 if (texto != "NADA")
+                     AtualizaText(texto);
+
+                 Thread.Sleep(1000);
+             }
+        }
+        //-------------------------------------------------------------
+        [XmlRpcUrl("http://localhost:8080/RPC2")]
+        //-------------------------------------------------------------
+        public interface _LeiloesAbertos_
+        {
+            [XmlRpcMethod("leilao.leiloesAbertos")]
+            string leiloesAbertos();
         }
         //-------------------------------------------------------------
         private void AtualizaText(String Texto)
@@ -52,6 +68,7 @@ namespace Cliente
                 if (prb != null)
                 {
                     prb.AppendText(Texto);
+                    prb.ScrollToCaret();
                 }
             }
         }

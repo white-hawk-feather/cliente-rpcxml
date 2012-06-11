@@ -40,6 +40,7 @@
             this.btnOFF = new System.Windows.Forms.Button();
             this.btnConectar = new System.Windows.Forms.Button();
             this.btn_PublicarLance = new System.Windows.Forms.Button();
+            this.btn_criarLeilao = new System.Windows.Forms.Button();
             this.gbx_enviarDados.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -129,6 +130,7 @@
             // 
             // btnOFF
             // 
+            this.btnOFF.Enabled = false;
             this.btnOFF.Location = new System.Drawing.Point(12, 202);
             this.btnOFF.Name = "btnOFF";
             this.btnOFF.Size = new System.Drawing.Size(104, 23);
@@ -139,7 +141,7 @@
             // 
             // btnConectar
             // 
-            this.btnConectar.Location = new System.Drawing.Point(12, 173);
+            this.btnConectar.Location = new System.Drawing.Point(12, 144);
             this.btnConectar.Name = "btnConectar";
             this.btnConectar.Size = new System.Drawing.Size(104, 23);
             this.btnConectar.TabIndex = 1;
@@ -150,18 +152,30 @@
             // btn_PublicarLance
             // 
             this.btn_PublicarLance.Enabled = false;
-            this.btn_PublicarLance.Location = new System.Drawing.Point(13, 144);
+            this.btn_PublicarLance.Location = new System.Drawing.Point(12, 173);
             this.btn_PublicarLance.Name = "btn_PublicarLance";
             this.btn_PublicarLance.Size = new System.Drawing.Size(103, 23);
             this.btn_PublicarLance.TabIndex = 7;
             this.btn_PublicarLance.Text = "Publicar";
             this.btn_PublicarLance.UseVisualStyleBackColor = true;
+            this.btn_PublicarLance.Click += new System.EventHandler(this.btn_PublicarLance_Click_1);
+            // 
+            // btn_criarLeilao
+            // 
+            this.btn_criarLeilao.Location = new System.Drawing.Point(12, 345);
+            this.btn_criarLeilao.Name = "btn_criarLeilao";
+            this.btn_criarLeilao.Size = new System.Drawing.Size(104, 23);
+            this.btn_criarLeilao.TabIndex = 8;
+            this.btn_criarLeilao.Text = "Criar Leilão";
+            this.btn_criarLeilao.UseVisualStyleBackColor = true;
+            this.btn_criarLeilao.Click += new System.EventHandler(this.btn_criarLeilao_Click);
             // 
             // FormCliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(626, 386);
+            this.Controls.Add(this.btn_criarLeilao);
             this.Controls.Add(this.btn_PublicarLance);
             this.Controls.Add(this.btnConectar);
             this.Controls.Add(this.groupBox1);
@@ -191,6 +205,7 @@
         private System.Windows.Forms.Button btnOFF;
         private System.Windows.Forms.Button btnConectar;
         private System.Windows.Forms.Button btn_PublicarLance;
+        private System.Windows.Forms.Button btn_criarLeilao;
     }
 }
 

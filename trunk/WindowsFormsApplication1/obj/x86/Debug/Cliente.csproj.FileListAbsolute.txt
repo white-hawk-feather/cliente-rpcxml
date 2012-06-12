@@ -20,3 +20,5 @@ C:\cliente-rpcxml\WindowsFormsApplication1\bin\Debug\Cliente.exe.config
 C:\cliente-rpcxml\WindowsFormsApplication1\bin\Debug\CookComputing.XmlRpcV2.dll
 C:\cliente-rpcxml\WindowsFormsApplication1\bin\Debug\CookComputing.XmlRpcV2.pdb
 C:\cliente-rpcxml\WindowsFormsApplication1\obj\x86\Debug\Cliente.Vendedor.resources
+C:\cliente-rpcxml\WindowsFormsApplication1\bin\Debug\Microsoft.Samples.XmlRpc.dll
+C:\cliente-rpcxml\WindowsFormsApplication1\bin\Debug\Microsoft.Samples.XmlRpc.pdb

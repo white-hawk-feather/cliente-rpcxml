@@ -12,6 +12,7 @@ using System.IO;
 using System.Net;
 
 
+
 namespace Cliente
 {
     public class threadLeilao
@@ -28,7 +29,7 @@ namespace Cliente
         {
              //Dados a serem recebidos:
              //código, nome, descrição, preço inicial e tempo do leilão;
-            String texto = "ID Produto | Descrição|  Preço  | Tempo \n";
+            String texto = "ID Produto | Descrição|  Preço Atual/Inicial  | Tempo \n";
              AtualizaText(texto);
             //Conectar RPCxml, e verificar os lelões que existem... 
              _LeiloesAbertos_ LeiloesAbertos = (_LeiloesAbertos_)XmlRpcProxyGen.Create(typeof(_LeiloesAbertos_));

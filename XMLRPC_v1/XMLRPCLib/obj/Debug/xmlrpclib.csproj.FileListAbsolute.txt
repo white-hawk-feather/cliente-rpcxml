@@ -23,3 +23,8 @@ C:\XMLRPC\XMLRPCLib\obj\Debug\CookComputing.XmlRpcV2.pdb
 \\psf\Home\Desktop\XMLRPC_v1\XMLRPCLib\obj\Debug\ResolveAssemblyReference.cache
 \\psf\Home\Desktop\XMLRPC_v1\XMLRPCLib\obj\Debug\CookComputing.XmlRpcV2.dll
 \\psf\Home\Desktop\XMLRPC_v1\XMLRPCLib\obj\Debug\CookComputing.XmlRpcV2.pdb
+C:\cliente-rpcxml\XMLRPC_v1\bin\CookComputing.XmlRpcV2.dll
+C:\cliente-rpcxml\XMLRPC_v1\bin\CookComputing.XmlRpcV2.pdb
+C:\cliente-rpcxml\XMLRPC_v1\XMLRPCLib\obj\Debug\ResolveAssemblyReference.cache
+C:\cliente-rpcxml\XMLRPC_v1\XMLRPCLib\obj\Debug\CookComputing.XmlRpcV2.dll
+C:\cliente-rpcxml\XMLRPC_v1\XMLRPCLib\obj\Debug\CookComputing.XmlRpcV2.pdb
